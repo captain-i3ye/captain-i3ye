@@ -1,6 +1,6 @@
-- <!---👋---><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23"> Hi, I’m __@captain-i3ye__
-- 👀 I’m interested in Programming and CyberSecurity stuffs
-- 🌱 I’m currently learning Java DSA, some linux-foo ....
+- <!---👋---><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23"> Hi, I’m @captain-i3ye
+- <!---👀---><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="23"> I’m interested in Programming and CyberSecurity stuffs
+- <!---🌱---><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="23"> I’m currently learning Java DSA, some linux-foo ....
 - 💞️ I’m looking to collaborate on (nothing) as I am not skilled enough YET.
 - 📫 How to reach me ...
 
